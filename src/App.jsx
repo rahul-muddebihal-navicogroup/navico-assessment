@@ -1,5 +1,14 @@
 import './App.css';
 
+
+/**
+ * ASSESSMENT
+ * We have a request from the product team to display a table of the number of beers that fall into an alcohol percentage range, in 1% increments.
+    - Data will come from (https://api.punkapi.com/v2/beers)
+    - Alcohol percentage is in the `abv` field in this API
+    - As a reminder you are welcome to ask clarifying questions of us and are free to use Google or your preferred search engine to lookup anything you need for this task
+ */
+
 function App() {
   return (
     <div className="App">
